@@ -17,6 +17,10 @@
             "Value": {
               "Ref": "AWS::Region"
             }
+          },
+          {
+            "Key": "yor_trace",
+            "Value": "b98d47f1-0e83-4001-be09-9094333dd232"
           }
         ],
         "AvailabilityZone": "us-west-2a"

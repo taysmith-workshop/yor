@@ -16,6 +16,10 @@
           {
             "Key": "new_tag",
             "Value": "new_value"
+          },
+          {
+            "Key": "yor_trace",
+            "Value": "86eadc82-b048-47a5-85e5-105964e130ba"
           }
         ],
         "Domain": "VPC"
@@ -28,6 +32,10 @@
           {
             "Key": "new_tag",
             "Value": "new_value"
+          },
+          {
+            "Key": "yor_trace",
+            "Value": "20b6d4a3-684f-44ef-9e15-4510e3f341c3"
           }
         ],
         "Domain": "VPC"
@@ -61,6 +69,10 @@
         {
           "Key": "new_tag",
           "Value": "new_value"
+        },
+        {
+          "Key": "yor_trace",
+          "Value": "3fa1c89b-7981-4a57-9227-96fa7b21f40b"
         }
       ],
       "SecondaryPrivateIpAddressCount" : 2,
