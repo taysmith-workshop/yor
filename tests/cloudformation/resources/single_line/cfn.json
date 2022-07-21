@@ -25,7 +25,11 @@
         },
         "Tags": [
           { "Key": "old_tag1", "Value": "old_val1" },
-          { "Key": "old_tag2", "Value": "old_val2" }
+          { "Key": "old_tag2", "Value": "old_val2" },
+          {
+           "Key": "yor_trace",
+           "Value": "17f930b5-c952-40d1-aaa9-c3611da21bdf"
+          }
         ]
       }
     }

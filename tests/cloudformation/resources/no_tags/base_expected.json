@@ -12,6 +12,10 @@
           {
             "Key": "another_tag",
             "Value": "another_val"
+          },
+          {
+            "Key": "yor_trace",
+            "Value": "76e1dfd1-9b59-44b1-ba11-bc7cdc24cde9"
           }
         ],
         "AccessControl": "PublicRead",
